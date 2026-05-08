@@ -9,18 +9,20 @@
   <null name="startup_services"/>
   <null name="shutdown_services"/>
   <null name="replication_services"/>
-  <null name="requires"/>
+  <record name="requires" javaclass="com.wm.util.Values">
+    <value name="DesignerStepsInCloudEditorTxPipelinePackage">1.0</value>
+  </record>
   <null name="lazy_load_node_types"/>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">3</value>
+  <value name="build">4</value>
   <null name="description"/>
   <value name="created_date">08-05-2026 12:49:44 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2026-05-08T12:51:22.135307981Z</value>
+  <value name="lastUpdated">2026-05-08T12:53:38.91251869Z</value>
   <value name="wmProjectId">fl8041e554ef004659aa2795ee520477b8</value>
   <value name="creator">Santhosh K</value>
 </Values>
